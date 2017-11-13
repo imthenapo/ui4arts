@@ -1,0 +1,12 @@
+@import '~normalize.css/normalize.css';
+@import '~@blueprintjs/core/dist/blueprint.css';
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: url('/round.png');
+  background-repeat: repeat;
+}
+
+.basic-margin {
+  margin: 8px;
+}
